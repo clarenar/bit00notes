@@ -1,3 +1,3 @@
 # bit00notes
-Taller 1
+Taller 1 del bootcam 
 Clarenar
